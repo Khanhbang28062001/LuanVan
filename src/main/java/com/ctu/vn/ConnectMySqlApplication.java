@@ -1,4 +1,4 @@
-package com.techbase.connectmysql;
+package com.ctu.vn;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

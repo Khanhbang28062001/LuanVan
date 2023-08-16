@@ -9,7 +9,7 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>com.techbase</groupId>
-    <artifactId>ConnectMySQL</artifactId>
+    <artifactId>BackEnd</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <name>ConnectMySQL</name>
     <description>ConnectMySQL</description>

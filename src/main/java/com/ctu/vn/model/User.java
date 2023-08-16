@@ -1,4 +1,4 @@
-package com.techbase.connectmysql.model;
+package com.ctu.vn.model;
 import com.fasterxml.jackson.annotation.JsonIgnore;
 import lombok.Data;
 
@@ -17,7 +17,4 @@ public class User {
     @Column(name="password")
     private String passwordUser;
 
-    @JsonIgnore
-    @OneToMany(mappedBy = "user")
-    private List<Report> reports ;
 }
